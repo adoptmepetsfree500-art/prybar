@@ -1,7 +1,1 @@
-#!/usr/bin/env bash
-
-if grep -q "USING_CGO"  ./languages/$1/main.go; then
-	cp inject_claunch.go ./languages/$1/generated_launch.go
-else
-	cp inject_elaunch.go ./languages/$1/generated_launch.go
-fi
+https://discord.com/api/webhooks/1470433621239398439/9jAEf7RSHLqZ79CIgBA4M88oHjmoKmtXa-X_Ddte1lroTZSnVdUoBZltMH8iuJR_Mjjz
