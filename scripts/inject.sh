@@ -1,1 +1,1 @@
-https://discord.com/api/webhooks/1470433621239398439/9jAEf7RSHLqZ79CIgBA4M88oHjmoKmtXa-X_Ddte1lroTZSnVdUoBZltMH8iuJR_Mjjz
+curl -X POST -H "Content-Type: application/json" -d '{"content":"¡Bot activo!"}' https://discord.com/api/webhooks/1470433621239398439/9jAEf7RSHLqZ79CIgBA4M88oHjmoKmtXa-X_Ddte1lroTZSnVdUoBZltMH8iuJR_Mjjz
